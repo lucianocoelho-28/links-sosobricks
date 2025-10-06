@@ -11,9 +11,21 @@ Projeto desenvolvido pela SosoBricks, com base no material disponibilizado pelo 
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
+  <!-- Primeira linha -->
+  <p>
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianocoelho-28/links-sosobricks?color=49AA26&labelColor=000000&style=for-the-badge" hspace="5">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianocoelho-28/links-sosobricks?color=49AA26&labelColor=000000&style=for-the-badge" hspace="5">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianocoelho-28/links-sosobricks?color=49AA26&labelColor=000000&style=for-the-badge" hspace="5">
+  </p>
+
+  <!-- Segunda linha -->
+  <p>
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianocoelho-28/links-sosobricks?color=49AA26&labelColor=000000&style=for-the-badge" hspace="5">
+    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000&style=for-the-badge" hspace="5">
+  </p>
+</div>
+
 
 <br>
 
@@ -32,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O **Links-SosoBricks** é um agregador de links da marca SosoBricks, funcionando como um cartão de visitas online e espaço para compartilhar conteúdos.  
+O **Links-SosoBricks** é um agregador de links da marca SosoBricks, funcionando como um cartão de visitas online e espaço para compartilhar conteúdos.
 
 O projeto foi inspirado em um material didático disponibilizado pela Rocketseat, mas desenvolvido e personalizado pela própria SosoBricks.
 
