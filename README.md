@@ -26,7 +26,6 @@ Projeto desenvolvido pela SosoBricks, com base no material disponibilizado pelo 
   </p>
 </div>
 
-
 <br>
 
 <p align="center">
@@ -48,7 +47,7 @@ O **Links-SosoBricks** é um agregador de links da marca SosoBricks, funcionando
 
 O projeto foi inspirado em um material didático disponibilizado pela Rocketseat, mas desenvolvido e personalizado pela própria SosoBricks.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://lucianocoelho-28.github.io/links-sosobricks/)
 
 ## 🔖 Layout
 
